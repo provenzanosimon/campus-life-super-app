@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.card {
+  border-radius: 10px;
+}
